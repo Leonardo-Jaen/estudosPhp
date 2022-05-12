@@ -1,0 +1,21 @@
+			 ANOTAÇÕES DO CURSO
+		    
+	
+	A história do php ->
+
+  O php foi criado por Rasmus Lerdorf, craido para ser o contador de visitas do seu site, foi feito em linguagem C. Outras duas pessoas importantes são os fundadores da empresa Zend Technologies (Andi Gutmans e Zeev Suraski) que é a empresa que cuida do php e, desde a versão 5 reescreveu o core (coração da linguaguem) do php, que ganhou inumeros recursos.
+  <-
+  
+  ->
+  A diferença entra a linguagem de PHP e o servidor web apache (o apache é o nosso servidor web que usa o interpretador php para ler o codigo fonte e gerar o resultado final). Sempre que pesquisamos o endereço do site, somos redirecionados para um servidor web, um computador que está remotamente localizidado, não sabemos onde ele está, e nele, existe um programa que é chamado de servidor web. Existe varios servidores web, como o "IIS", da Microsoft. Nós conseguimos colocar o php nele usando o web plataform da Microsoft, o apache é basicamente da "mesma familia" que o php(personal home page). O apache é um servidor web gratuito, então podemos ver como ele foi escrito, normalmente, quando hospedamos um servidor na internet, ele está rodando em um linux e ali nós temos o apache.
+  <-
+  
+  ->
+  Diferença de editor de texto e ide. O editor de texto é uma ferramenta e o IDE é um ambiente de desenvolvimento, e vai ter muito mais recursos que um editor de texto. "<?php" É uma tag de abertura e, "?>" é uma tag de fechamento, tudo que estiver dentro dessas tags é php.
+ <-
+ 
+ Cliente X Servidor. O cliente é o Usuario, quando fazemos uma busca no google, nós somos o cliente, pois solicitamos(request) uma informação. O servidor é um software ou computador, com sistema de computação centralizada que fornece serviços a uma rede de computadores, chamada de cliente, após analisar o request do cliente, o servidor "junta as informações que queremos" e nos da uma resposta(response). O php funciona do lado do servidor e ele sempre devolve html, o código fonte do php nunca será devolvido integralmente para o usuario final. Nós fazemos um request, e o php nos devolve um response em html.
+ 
+  ->
+  
+  O que é o git? É um sistema controle de versão, é a ideia de trabalhar de uma forma mais organizada e poder trabalhar com mais de uma pessoa e ver versões antigas dos seus codigos.

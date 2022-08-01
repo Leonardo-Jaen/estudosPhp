@@ -1,5 +1,5 @@
 <?php
-// para criar uma variavel com o php, é preciso ultiliar o '$' e, logo após, colocar o nome.
+// para criar uma variavel com o php, é preciso utilizar o '$' e, logo após, colocar o nome.
 
 $nome = "leonardo";
 

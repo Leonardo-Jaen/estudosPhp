@@ -7,4 +7,6 @@ $nome2 = 'kanashiro'; // nas aspas simples, ele entende que tudo é texto. Inter
 
 //var_dump($nome, $nome2); //Var_dump serve para mostrar o tipo de conteúdo de uma variável, mas, não da para ser usado para comparação
 
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

@@ -7,4 +7,6 @@ var_dump($nome); //var_dump mostra o tipo de dado, o tamanho que ele gastou na m
 
 // nós colocamos o sinal de igual na frente da variavel para atribuir um valor para dentro da mesma, ela é um espaço de memoria do servidor.    
 
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

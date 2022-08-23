@@ -33,4 +33,6 @@ if (isset($nome1)) {
 //Nos temos no php 8 tipos de dados primitivos dividos em 3 grupos. O primeiro grupo nós chamaremos de tipos básicos, que são:
 //O inteiro (numerico), A string(texto), Ponto flutuante(133.4) e boolean (v ou f).
 //O segundo grupo são os compostos, e nele tem: Array e Objetos.
-//E por ultimo, os tipos de dados especiais: Resourse e null. 
+//E por ultimo, os tipos de dados especiais: Resourse e null.
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/

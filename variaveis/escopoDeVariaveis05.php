@@ -14,4 +14,6 @@ function teste2() { //Aqui é outro escopo
 }
 
 teste();
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

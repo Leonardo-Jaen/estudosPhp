@@ -5,4 +5,6 @@ var_dump("olá");
 function somar($a, $b) {
     return $a + $b; //Uma função simples para seguir de exemplo. Continuaremos no exemploInclude02.
 }
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

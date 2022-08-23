@@ -17,4 +17,6 @@ echo ucwords($nome); //a primeira letra de cada palavra fica maiuscula com essa 
 echo "<br>";
 
 echo ucfirst($nome); //essa função faz somente a primeira letra ficar maiuscula.
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

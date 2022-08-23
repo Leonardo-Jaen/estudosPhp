@@ -28,4 +28,6 @@ var_dump($a != $b); //Aqui nós estamos vendo se as variáveis são diferentes u
 echo "<br>";
 
 var_dump($a !== $b); //Aqui nós estamos vendo se as variáveis são idênticas utilizando o sinal "!==". Aqui também vai validade o tipo de dado.;
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

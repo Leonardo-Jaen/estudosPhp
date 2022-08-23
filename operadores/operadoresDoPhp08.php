@@ -20,4 +20,6 @@ var_dump($resultado3);
 echo "<br>";
 
 var_dump($resultado4);
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

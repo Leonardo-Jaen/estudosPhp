@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c26aa0dc-3133-4a30-8db9-811f1cfaf693" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/include/exemploInclude01.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/exemploInclude01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/include/exemploInclude02.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/exemploInclude02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp01.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp02.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp03.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp04.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp05.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp06.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp06.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp07.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp07.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp08.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp08.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/exemploString01.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/exemploString02.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/exemploString03.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/strings/exemploString04.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString04.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis/escopoDeVariaveis05.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/escopoDeVariaveis05.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis/exemplo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis/exemplo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis/exemplo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variaveis/variaveisDeUsoDiario04.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/variaveisDeUsoDiario04.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="0589111c-5ef4-4ba8-8ee1-05f853226ba2" />
+        <option name="url" value="https://github.com/Leonardo-Jaen/estudosPhp.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ArILC38Inmcy8T3zWIr5vxHE77" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/operadores" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c26aa0dc-3133-4a30-8db9-811f1cfaf693" name="Changes" comment="" />
+      <created>1655761223833</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1655761223833</updated>
+      <workItem from="1655761230426" duration="4581000" />
+      <workItem from="1655933841304" duration="1712000" />
+      <workItem from="1655989976424" duration="3000" />
+      <workItem from="1656082577322" duration="788000" />
+      <workItem from="1656083600962" duration="1039000" />
+      <workItem from="1656271178877" duration="299000" />
+      <workItem from="1658924364671" duration="4749000" />
+      <workItem from="1659388236460" duration="589000" />
+      <workItem from="1659388838158" duration="4724000" />
+      <workItem from="1660080493384" duration="3994000" />
+      <workItem from="1660604220734" duration="1317000" />
+      <workItem from="1661277041530" duration="3185000" />
+      <workItem from="1661282519374" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

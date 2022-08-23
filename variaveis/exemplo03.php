@@ -33,4 +33,6 @@ var_dump($arquivo);
 
 //nulo é a ausencia de valor, não existe. 
 //vazio é reservado na memória, só não tem nada.
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

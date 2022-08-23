@@ -25,4 +25,6 @@ echo "<br>";
 
 echo $a ** $b; // Exponenciação
 
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

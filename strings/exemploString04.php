@@ -11,4 +11,6 @@ var_dump($q); //neste caso, retornara "14", a partir da letra zero("e" de escrev
 var_dump($texto);
 
 //veja mais sobre strings do php aqui: https://www.php.net/manual/pt_BR/language.types.string.php
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

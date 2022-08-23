@@ -10,4 +10,6 @@ $nome .= " treino"; // Aqui ele "acrescentou junto" as duas variaveis $nome.
 
 echo $nome;
 
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

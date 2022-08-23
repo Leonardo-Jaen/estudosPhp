@@ -16,4 +16,6 @@ echo $a; //Aqui mostramos o resultado final (que no caso, deu 11).
 echo "<br>";
 
 echo --$a; //Aqui nós decrementamos.
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

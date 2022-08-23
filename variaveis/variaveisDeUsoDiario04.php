@@ -7,10 +7,7 @@ $nome = (int)$_GET["a"]; //assim definimos que é inteiro. A url(Uniform Resourc
 $ip = $_SERVER["SCRIPT_NAME"]; // O $_SERVER pega informações do ambiente e não só do servidor
 
 
-
 echo $ip;
 
-
-
-
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

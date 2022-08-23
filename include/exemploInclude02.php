@@ -13,4 +13,6 @@ $resultado = somar(10, 30); //Se rodarmos o código assim, o php não irá recon
 
 echo $resultado;
 
+
+//Site para boas praticas: https://www.php-fig.org/psr/psr-12/
 ?>

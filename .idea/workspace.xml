@@ -2,25 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c26aa0dc-3133-4a30-8db9-811f1cfaf693" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/include/exemploInclude01.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/exemploInclude01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/include/exemploInclude02.php" beforeDir="false" afterPath="$PROJECT_DIR$/include/exemploInclude02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp01.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp02.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp03.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp04.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp05.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp06.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp06.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp07.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp07.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/operadores/operadoresDoPhp08.php" beforeDir="false" afterPath="$PROJECT_DIR$/operadores/operadoresDoPhp08.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/exemploString01.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/exemploString02.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/exemploString03.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/strings/exemploString04.php" beforeDir="false" afterPath="$PROJECT_DIR$/strings/exemploString04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/escopoDeVariaveis05.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/escopoDeVariaveis05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/exemplo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/exemplo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/exemplo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/exemplo03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/variaveis/variaveisDeUsoDiario04.php" beforeDir="false" afterPath="$PROJECT_DIR$/variaveis/variaveisDeUsoDiario04.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/switch/exemploSwitchCase01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/if/exemploIf01.php" beforeDir="false" afterPath="$PROJECT_DIR$/if/exemploIf01.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,6 +71,7 @@
       <workItem from="1660604220734" duration="1317000" />
       <workItem from="1661277041530" duration="3185000" />
       <workItem from="1661282519374" duration="64000" />
+      <workItem from="1661282603711" duration="2901000" />
     </task>
     <servers />
   </component>

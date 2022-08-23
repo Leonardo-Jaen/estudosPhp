@@ -26,6 +26,10 @@ if ($qualASuaIdade < $idadeCrianca) { //Usamos a palavra reservada "if", abrimos
 
 }
 
+echo "<br>";
+
+echo ($qualASuaIdade < $idadeMaior) ? "menor de idade" : "maior de idade"; //isso se chama um if ternario, é a mesma coisa que fizemos ali em cima, só é mais rapido. Quando usarmos? sempre que for algo simples e rápido!
+
 // Resumindo:
 //
 //IF, realiza um teste lógico, resultado é sempre um booleano
